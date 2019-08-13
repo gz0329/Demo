@@ -1,5 +1,5 @@
 # Demo
-Demotrates projects in both programming and circuitry designing.
+Demotrates both programming and circuitry design projects.
 
 circuit_pcb_design contains a collection of test circuits and PCBs that I designed with KiCAD.
 
