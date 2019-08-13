@@ -1,0 +1,50 @@
+Mixed circuit parts
+
+Edge SMA connector
+https://www.digikey.com/product-detail/en/0732511150/WM5534-ND/1465156/?itemSeq=295051608
+
+Amplifier:
+https://www.digikey.com/product-detail/en/MAAL-011078-TR1000/1465-1489-1-ND/5014338?WT.z_cid=sp_1465_buynow_5014338
+https://www.digikey.com/product-detail/en/skyworks-solutions-inc/SKY67153-396LF/863-1560-1-ND/4844026
+
+SKY circuit Parts on RF trace:
+20pF 0402
+https://www.digikey.com/product-detail/en/CBR04C200F5GAC/399-8786-1-ND/3479845/?itemSeq=296101362
+
+1.2pF 0402
+https://www.digikey.com/product-detail/en/kemet/CBR04C129B2GAC/399-16305-1-ND/7649890
+
+1nH 0402
+https://www.digikey.com/product-detail/en/wurth-electronics-inc/744901010/732-2912-1-ND/2524784
+
+12nH 0402
+
+2.7nH 0402
+https://www.digikey.com/product-detail/en/wurth-electronics-inc/744901027/732-2917-1-ND/2524789
+
+1kohm 0402
+
+2kohm 0402
+
+3.9pF 0402
+https://www.digikey.com/product-detail/en/kemet/CBR04C399B1GAC/399-8588-1-ND/3479323
+
+MAAL circuit Parts on RF trace:
+10pF 0402
+https://www.digikey.com/product-detail/en/kemet/CBR04C100J1GAC/399-8804-1-ND/3479714
+
+0.7pF 0402
+https://www.digikey.com/product-detail/en/kemet/CBR04C708B5GAC/399-17531-1-ND/8572531
+
+2.5nH 0201
+
+2.7nH 0402
+https://www.digikey.com/product-detail/en/wurth-electronics-inc/744901027/732-2917-1-ND/2524789
+
+1.8pF 0402
+https://www.digikey.com/product-detail/en/kemet/CBR04C189B1GAC/399-8596-1-ND/3479321
+
+0.4pF 0201
+https://www.digikey.com/product-detail/en/kemet/CBR02C408B3GAC/399-8614-1-ND/3479269
+
+

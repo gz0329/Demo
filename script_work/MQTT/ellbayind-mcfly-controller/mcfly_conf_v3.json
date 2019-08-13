@@ -1,0 +1,170 @@
+{
+  "Num_LRUs": 22,
+  "Num_LO": 1,
+  "Num_Tx": 11,
+  "Num_Rx": 11,
+  "Cells_per_LRU": 2,
+  "Num_freq_scanned": 4,
+  "LRUs_comment": "Mcfly_v3p0",
+  "LO":
+  [
+    {
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Freq",
+      "MAC":00000000
+    }
+  ],
+  "Phases":
+  [
+    {
+      "Phase_idx": "Phase_0"
+    },
+    {
+      "Phase_idx": "Phase_1"
+    },
+    {
+      "Phase_idx": "Phase_2"
+    },
+    {
+      "Phase_idx": "Phase_3"
+    }
+  ],
+  "Tx_LRU": 
+  [
+    {
+      "ID": "Tx_LRU_0",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/TxLRU_0",
+      "MAC":00000001
+    },
+    {
+      "ID": "Tx_LRU_1",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/TxLRU_1",
+      "MAC":00000001
+    },
+    {
+      "ID": "Tx_LRU_2",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/TxLRU_2",
+      "MAC":00000001
+    },
+    {
+      "ID": "Tx_LRU_3",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/TxLRU_3",
+      "MAC":00000001
+    },
+    {
+      "ID": "Tx_LRU_4",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/TxLRU_4",
+      "MAC":00000001
+    },
+    {
+      "ID": "Tx_LRU_5",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/TxLRU_5",
+      "MAC":00000001
+    },
+    {
+      "ID": "Tx_LRU_6",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/TxLRU_6",
+      "MAC":00000001
+    },
+    {
+      "ID": "Tx_LRU_7",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/TxLRU_7",
+      "MAC":00000001
+    },
+    {
+      "ID": "Tx_LRU_8",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/TxLRU_8",
+      "MAC":00000001
+    },
+    {
+      "ID": "Tx_LRU_9",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/TxLRU_9",
+      "MAC":00000001
+    },
+    {
+      "ID": "Tx_LRU_10",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/TxLRU_10",
+      "MAC":00000001
+    }
+  ],
+  "Rx_LRU": 
+  [
+    {
+      "ID": "Rx_LRU_0",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/RxLRU_0",
+      "MAC":00000001
+    },
+    {
+      "ID": "Rx_LRU_1",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/RxLRU_1",
+      "MAC":00000001
+    },
+    {
+      "ID": "Rx_LRU_2",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/RxLRU_2",
+      "MAC":00000001
+    },
+    {
+      "ID": "Rx_LRU_3",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/RxLRU_3",
+      "MAC":00000001
+    },
+    {
+      "ID": "Rx_LRU_4",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/RxLRU_4",
+      "MAC":00000001
+    },
+    {
+      "ID": "Rx_LRU_5",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/RxLRU_5",
+      "MAC":00000001
+    },
+    {
+      "ID": "Rx_LRU_6",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/RxLRU_6",
+      "MAC":00000001
+    },
+    {
+      "ID": "Rx_LRU_7",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/RxLRU_7",
+      "MAC":00000001
+    },
+    {
+      "ID": "Rx_LRU_8",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/RxLRU_8",
+      "MAC":00000001
+    },
+    {
+      "ID": "Rx_LRU_9",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/RxLRU_9",
+      "MAC":00000001
+    },
+    {
+      "ID": "Rx_LRU_10",
+      "Channel_sub": "/Sensor/Density/Trigger",
+      "Channel_pub": "/Sensor/Density/RxLRU_10",
+      "MAC":00000001
+    }
+  ]
+}

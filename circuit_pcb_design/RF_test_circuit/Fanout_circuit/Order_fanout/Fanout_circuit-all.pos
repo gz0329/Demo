@@ -1,0 +1,12 @@
+### Module positions - created on 5/20/2019 12:36:50 PM ###
+### Printed by Pcbnew version kicad (5.0.1)-4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                Package                 PosX       PosY       Rot  Side
+CON1      RF_SMA             SMAConnector        120.7500   -89.1250    0.0000  top
+CON2      RF_SMA             SMAConnector        140.3750   -89.6250    0.0000  top
+CON3      RF_SMA             SMAConnector        140.4000   -79.5750    0.0000  top
+J1        .7_pinch_trace     .7_pinch_trace      132.6600   -79.6500   90.0000  top
+J2        .7_pinch_trace     .7_pinch_trace      132.4500   -88.5150  270.0000  top
+R1        EBI_fanout_cu_8p5  EBI_fanout_cu_8p5   130.3050   -89.1250    0.0000  top
+## End

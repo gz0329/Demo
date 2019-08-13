@@ -1,0 +1,25 @@
+1 Change the property for parts M150, J151, J101, J102, U203, U204, U205, U208, U217, U218, U219, U220, U225, U226, U227, U228, R209, R210, R211 to SMD so that they can show up in the CPL.
+2 Added pin1 mark to footprints.
+3 Change all the long power traces to 1mm width.
+
+Second round of changing
+1 Add solder under tripler. Change the footprint to add belly vias.
+2 Turn on F paste on exposed pads.
+3 Make the orientation clear on U204
+4 Add solid dot matches the data sheet. On pin 6.
+5 Clarify the orientation for the filter. U228
+6 More work on silk screen.
+
+Third round of changing
+1 Add 100ohm pull down resistors at NFET
+2 Add 0.01uF cap at pin4 of high freq amp
+3 Delete attenuators
+4 Delete one filter after tripler
+5 Change pull down 100ohm resistor from 0201 to 0402
+6 Change .7pinch to .537mm width
+7 Change Fanout to .537mm width
+8 Change 470ohm from 0201 to 0603
+9 Replace old amp and bias tee with new MAAL amp 
+10 Change 0.1uF from 0201 to 0402
+11 Change 0.01uF from 0201 to 0603
+12 Change 10k from 0201 to 0402

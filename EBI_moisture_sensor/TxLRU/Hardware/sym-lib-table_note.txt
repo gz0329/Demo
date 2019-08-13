@@ -1,0 +1,14 @@
+This file contains the project based mapping to the symbol library.
+
+It was getting an inappropriate E: drive letter added. We tried to work around
+that using something like...
+(sym_lib_table
+  (lib (name 0EllBayInd-McFly)(type Legacy)(uri file:/Dev/ellbayind-mcfly/EllBayInd-McFly.lib)(options "")(descr ""))
+)
+
+But couldn't find a working version. There may be a way to do it with URI that
+is properly formatted.
+
+For now, you have to use Properties -> Manage Libraries -> Project Specific
+and create an entry with nickname 0EllBayInd-McFly, and pointing to the
+EllBayInd-McFly.lib master symbol library for this project.

@@ -1,0 +1,10 @@
+TxLRU sub circuit parts
+
+Amplifier
+https://store.qorvo.com/ProductDetail/QPL9057-Qorvo/631373/
+
+18nH inductor
+https://www.digikey.com/product-detail/en/taiyo-yuden/HK100518NJ-T/587-1522-1-ND/1008137
+
+20k res 0402
+https://www.digikey.com/product-detail/en/yageo/RT0402BRD0720KL/YAG1388CT-ND/5138836

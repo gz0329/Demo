@@ -1,0 +1,16 @@
+(module .7_pinch_trace (layer F.Cu) (tedit 5C6B24E3)
+  (attr smd)
+  (fp_text reference J203 (at 2.155 -0.49) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value .7_pinch_trace (at 5.635 -2.07) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at -0.042 -0.063) (size 0.084 0.126) (layers F.Cu))
+  (pad 1 smd rect (at 0.063 0.042) (size 0.126 0.084) (layers F.Cu))
+  (pad 1 smd trapezoid (at 0.0316 -0.0305 135) (size 0.0904 0.0904) (rect_delta 0 0.0903 ) (layers F.Cu))
+  (pad 1 smd trapezoid (at -0.062 -0.1451 135) (size 0.061 0.061) (rect_delta 0 0.0609 ) (layers F.Cu))
+  (pad 1 smd trapezoid (at 0.145 0.0622 135) (size 0.061 0.061) (rect_delta 0 0.0609 ) (layers F.Cu))
+  (pad 1 smd rect (at -0.183 -0.105) (size 0.2 0.21) (layers F.Cu))
+  (pad 1 smd rect (at 0.105 0.1819 90) (size 0.2 0.21) (layers F.Cu))
+)

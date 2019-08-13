@@ -1,0 +1,75 @@
+{
+  "Num_LRUs": 11,
+  "Cells_per_LRU": 4,
+  "Rotation_samples_per_cell": 16,
+  "LRUs_comment": "This is a list which defines the physical ordering of LRUs in the McFly Density Sensor. The LRU type (Tx|Rx), and the position (where 00 = closest to the operator panel) are selected, and the associated MAC address specifies the specific LRU",
+  "LRUs": 
+  [
+    {
+      "Channel_trigger": "/Sensor/Density/LRU_pair_0/Trigger",
+      "Channel_sample": "/Sensor/Density/LRU_pair_0/Samples",
+      "TxLRU": 000102030405,
+      "RxLRU": 000102030420
+    },
+    {
+      "Channel_trigger": "/Sensor/Density/LRU_pair_1/Trigger",
+      "Channel_sample": "/Sensor/Density/LRU_pair_1/Samples",
+      "TxLRU": 000102030406,
+      "RxLRU": 000102030421
+    },
+    {
+      "Channel_trigger": "/Sensor/Density/LRU_pair_2/Trigger",
+      "Channel_sample": "/Sensor/Density/LRU_pair_2/Samples",
+      "TxLRU": 000102030407,
+      "RxLRU": 000102030422
+    },
+    {
+      "Channel_trigger": "/Sensor/Density/LRU_pair_3/Trigger",
+      "Channel_sample": "/Sensor/Density/LRU_pair_3/Samples",
+      "TxLRU": 000102030408,
+      "RxLRU": 000102030423
+    },
+    {
+      "Channel_trigger": "/Sensor/Density/LRU_pair_4/Trigger",
+      "Channel_sample": "/Sensor/Density/LRU_pair_4/Samples",
+      "TxLRU": 000102030409,
+      "RxLRU": 000102030424
+    },
+    {
+      "Channel_trigger": "/Sensor/Density/LRU_pair_5/Trigger",
+      "Channel_sample": "/Sensor/Density/LRU_pair_5/Samples",
+      "TxLRU": 000102030410,
+      "RxLRU": 000102030425
+    },
+    {
+      "Channel_trigger": "/Sensor/Density/LRU_pair_6/Trigger",
+      "Channel_sample": "/Sensor/Density/LRU_pair_6/Samples",
+      "TxLRU": 000102030411,
+      "RxLRU": 000102030426
+    },
+    {
+      "Channel_trigger": "/Sensor/Density/LRU_pair_7/Trigger",
+      "Channel_sample": "/Sensor/Density/LRU_pair_7/Samples",
+      "TxLRU": 000102030412,
+      "RxLRU": 000102030427
+    },
+    {
+      "Channel_trigger": "/Sensor/Density/LRU_pair_8/Trigger",
+      "Channel_sample": "/Sensor/Density/LRU_pair_8/Samples",
+      "TxLRU": 000102030413,
+      "RxLRU": 000102030428
+    },
+    {
+      "Channel_trigger": "/Sensor/Density/LRU_pair_9/Trigger",
+      "Channel_sample": "/Sensor/Density/LRU_pair_9/Samples",
+      "TxLRU": 000102030414,
+      "RxLRU": 000102030429
+    },
+    {
+      "Channel_trigger": "/Sensor/Density/LRU_pair_10/Trigger",
+      "Channel_sample": "/Sensor/Density/LRU_pair_10/Samples",
+      "TxLRU": 000102030415,
+      "RxLRU": 000102030430
+    }
+  ]
+}

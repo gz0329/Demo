@@ -1,0 +1,18 @@
+### Module positions - created on 5/20/2019 12:55:57 PM ###
+### Printed by Pcbnew version kicad (5.0.1)-4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val         Package                 PosX       PosY       Rot  Side
+C1        100pF       C_0201_0603Metric   109.6000   -89.4000  180.0000  top
+C2        1uF         C_0603              114.8250   -85.9500    0.0000  top
+C3        100pF       C_0201_0603Metric   110.6000   -85.0500  180.0000  top
+C4        100pF       C_0201_0603Metric   115.3500   -87.2000    0.0000  top
+C5        100pF       C_0201_0603Metric   117.1250   -89.4000  180.0000  top
+CON1      RF_SMA      SMAConnector        104.7300   -89.3900    0.0000  top
+CON2      RF_SMA      SMAConnector        147.7000   -95.3800    0.0000  top
+L1        18nH        L_0402              115.6500   -88.9250  270.0000  top
+R1        5.1k        R_0603              112.0250   -87.0000   90.0000  top
+R2        20k         R_0402              115.6500   -91.3500   90.0000  top
+U3        BFCN-8450+  BFCN-8450+          135.1300   -95.3800    0.0000  top
+U5        BFCN-8450+  BFCN-8450+          140.8500   -95.3700    0.0000  top
+## End

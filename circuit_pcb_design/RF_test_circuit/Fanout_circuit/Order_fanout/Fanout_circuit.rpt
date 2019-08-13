@@ -1,0 +1,303 @@
+## Footprint report - date 5/20/2019 12:36:58 PM
+## Created by Pcbnew version kicad (5.0.1)-4
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 114.899999 71.899999
+lower_right_corner 145.100001 95.100001
+$EndBOARD
+
+$MODULE "CON1"
+reference "CON1"
+value "RF_SMA"
+footprint "EllBayInd-McFly:SMAConnector"
+attribut smd
+position 120.750000 89.125000  orientation 0.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  2.375000 -2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  2.375000  2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.375000  2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.375000 -2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.500000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  CON1
+
+$MODULE "CON2"
+reference "CON2"
+value "RF_SMA"
+footprint "EllBayInd-McFly:SMAConnector"
+attribut smd
+position 140.375000 89.625000  orientation 0.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  2.375000 -2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  2.375000  2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.375000  2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.375000 -2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.500000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  CON2
+
+$MODULE "CON3"
+reference "CON3"
+value "RF_SMA"
+footprint "EllBayInd-McFly:SMAConnector"
+attribut smd
+position 140.400000 79.575000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.500000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.375000 -2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.375000  2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  2.375000  2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  2.375000 -2.375000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  CON3
+
+$MODULE "J1"
+reference "J1"
+value ".7_pinch_trace"
+footprint "EllBayInd-McFly:.7_pinch_trace"
+attribut smd
+position 132.660000 79.650000  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.042000 -0.063000  size  0.084000  0.126000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  0.063000  0.042000  size  0.126000  0.084000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Trap Layer front
+position  0.031600 -0.030500  size  0.090400  0.090400  orientation 135.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Trap Layer front
+position -0.062000 -0.145100  size  0.061000  0.061000  orientation 135.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Trap Layer front
+position  0.145000  0.062200  size  0.061000  0.061000  orientation 135.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.183000 -0.105000  size  0.200000  0.210000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  0.105000  0.181900  size  0.200000  0.210000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE "J2"
+reference "J2"
+value ".7_pinch_trace"
+footprint "EllBayInd-McFly:.7_pinch_trace"
+attribut smd
+position 132.450000 88.515000  orientation 270.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.105000  0.181900  size  0.200000  0.210000  orientation -270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.183000 -0.105000  size  0.200000  0.210000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Trap Layer front
+position  0.145000  0.062200  size  0.061000  0.061000  orientation -225.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Trap Layer front
+position -0.062000 -0.145100  size  0.061000  0.061000  orientation -225.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Trap Layer front
+position  0.031600 -0.030500  size  0.090400  0.090400  orientation -225.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  0.063000  0.042000  size  0.126000  0.084000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.042000 -0.063000  size  0.084000  0.126000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J2
+
+$MODULE "R1"
+reference "R1"
+value "EBI_fanout_cu_8p5"
+footprint "EllBayInd-McFly:EBI_fanout_cu_8p5"
+attribut smd
+position 130.305000 89.125000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -3.180000  0.000000  size  0.500000  0.210000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.170000 -0.505000  size  0.500000  0.210000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position  0.170000  0.505000  size  0.500000  0.210000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer front
+position -1.480000  0.000000  size  1.820000  1.820000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.000000 -0.300000  size  0.300000  0.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position  0.000000  0.300000  size  0.300000  0.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -1.530000  0.000000  size  0.600000  0.600000  orientation 0.00
+drill  0.350000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE "J3"
+reference "J3"
+value "Conn_01x02_Male"
+footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+attribut none
+position 117.250000 74.050000  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  2.540000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J3
+
+$EndDESCRIPTION

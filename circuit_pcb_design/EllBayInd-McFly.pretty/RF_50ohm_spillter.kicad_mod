@@ -1,0 +1,19 @@
+(module RF_50ohm_spillter (layer F.Cu) (tedit 5CE33F00)
+  (fp_text reference J1 (at -0.475 1.525) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value RF_50ohm_splitter (at -1.35 7.8) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at -8.95 0) (size 0.3 0.345) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 6.39 6.265) (size 0.3 0.29) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 6.39 -6.265) (size 0.3 0.29) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd custom (at 0 0) (size 0.3 0.3) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -8.82 0.1725) (xy 0 0.1725) (xy 6.24 6.41) (xy 6.24 6.12) (xy 0.145 0)
+         (xy 6.24 -6.12) (xy 6.24 -6.41) (xy 0 -0.1725) (xy -8.82 -0.1725)) (width 0))
+    ))
+)

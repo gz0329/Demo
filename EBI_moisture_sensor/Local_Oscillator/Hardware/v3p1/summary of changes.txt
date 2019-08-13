@@ -1,0 +1,17 @@
+1 Removed the pads around the mounting holes in ethernet jack footprint.
+2 Extended the ground zone on bottom layer to match the ground zone on top layer.
+3 Added net pad clearance 0.254mm around mounting holes.
+4 Made a mistake on picking program header 2 x 10, changed from SMT to Through hole part in BoM.
+5 Made a mistake on picking debug header 1 x 6, changed from SMT to Through hole part in BoM.
+6 Changed the 3.3V zone to match the border of other ground zones. Now all the power and ground zones are created based on grid size 1.27mm.
+7 Vbus for USBLC6-4SC6 should be connected to 3.3v.
+8 24mhz clock for synthesizer needs a 1k pull up resistor at the output. For next round, changed it to another clock that has a better output.
+9 Removed the ferrite bead that connects digital and analog 3.3v close to MCU. FB101 and R308.
+10 Added filter to PoE module. L101, C131.
+11 A 10k ohm pull down resistor is required at pin2 of LAN8742.
+12 Added PoE protection diode. U109, U110.
+13 Added Bridge rectifiers to PoE module. U107, U108.
+14 Pin 2, 4, 5 on the PoE module should NOT connect to the ground on the board.
+15 Cleaned overlapping reference values.
+16 From testing found that when SEL_SYNTH_1 goes high Synthesizer_0 is chosen. Thus change the pin name to SEL_SYNTH_0.
+17 Change all the long power traces to 1mm width.

@@ -1,0 +1,43 @@
+TxLRU sub circuit parts SKY
+
+Amplifier
+https://www.digikey.com/product-detail/en/skyworks-solutions-inc/SKY67153-396LF/863-1560-1-ND/4844026
+
+2k res 0402
+https://www.digikey.com/product-detail/en/yageo/RT0402BRD072KL/YAG2303CT-ND/5252417
+
+1k res 0402
+https://www.digikey.com/product-detail/en/yageo/RC0402JR-071KL/311-1.0KJRCT-ND/729355
+
+10k res 0402
+https://www.digikey.com/product-detail/en/yageo/RT0402BRD0710KL/YAG1346CT-ND/5138794
+
+20pF cap 0402
+https://www.digikey.com/product-detail/en/yageo/CC0402JRNPO9BN200/311-1417-1-ND/2833723
+
+1.2pF cap 0402
+https://www.digikey.com/product-detail/en/yageo/CC0402BRNPO9BN1R2/311-1615-1-ND/5195517
+
+3.9pF cap 0402
+https://www.digikey.com/product-detail/en/yageo/CC0402CRNPO9BN3R9/311-3325-1-ND/6818295
+
+56pF cap 0402
+https://www.digikey.com/product-detail/en/yageo/CC0402JRNPO9BN560/311-1022-1-ND/302939
+
+10000pF cap 0402
+https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R8BB103/311-1337-1-ND/2103121
+
+1000pF cap 0402
+https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R9BB102/311-1036-1-ND/302953
+
+22pF cap 0402
+https://www.digikey.com/product-detail/en/yageo/CC0402JRNPO9BN220/311-1018-1-ND/302935
+
+2.7nH ind 0402
+https://www.digikey.com/product-detail/en/taiyo-yuden/HK10052N7S-T/587-1505-1-ND/1008120
+
+1nH ind 0402
+https://www.digikey.com/product-detail/en/taiyo-yuden/HK10051N0S-T/587-1498-1-ND/1008113
+
+12nH ind 0402
+https://www.digikey.com/product-detail/en/taiyo-yuden/HK100512NJ-T/587-1520-1-ND/1008135

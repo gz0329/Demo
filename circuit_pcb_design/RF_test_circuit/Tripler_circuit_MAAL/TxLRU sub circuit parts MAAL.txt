@@ -1,0 +1,31 @@
+TxLRU sub circuit parts MAAL
+
+Amplifier
+https://www.digikey.com/product-detail/en/MAAL-011078-TR1000/1465-1489-1-ND/5014338?WT.z_cid=sp_1465_buynow_5014338
+
+2.5nH inductor 0201
+https://www.digikey.com/product-detail/en/taiyo-yuden/HKQ0603W2N5B-T/587-4633-1-ND/6041859
+
+2.7nH inductor 0402
+https://www.digikey.com/product-detail/en/taiyo-yuden/HK10052N7S-T/587-1505-1-ND/1008120
+
+10pF cap 0402
+https://www.digikey.com/product-detail/en/yageo/CC0402JRNPO9BN100/311-1014-1-ND/302931
+
+0.7pF cap 0402
+https://www.digikey.com/product-detail/en/yageo/CC0402BRNPO9BNR70/311-3709-1-ND/8024798
+
+0.4pF cap 0201
+https://www.digikey.com/product-detail/en/taiyo-yuden/UMK063CG0R4CTHF/587-5300-1-ND/7066162
+
+1.8pF cap 0402
+https://www.digikey.com/product-detail/en/yageo/CC0402CRNPO9BN1R8/311-1004-1-ND/302921
+
+0.1uF cap 0402
+https://www.digikey.com/product-detail/en/taiyo-yuden/EMK105B7104KV-F/587-1451-1-ND/1004082
+
+49pF cap 0603
+https://www.digikey.com/product-detail/en/avx-corporation/06035A500JAT2A/478-10324-1-ND/6797284
+
+470ohm res 0603
+https://www.digikey.com/product-detail/en/yageo/RC0603FR-07470RL/311-470HRCT-ND/730203
